@@ -1,0 +1,1 @@
+export { default } from "file:///Users/kimidsinga/Desktop/womens-health-revolution/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
